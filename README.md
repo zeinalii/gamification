@@ -4,3 +4,6 @@ In order to run the fetch_data.py you need to have 'teacher' access to canvas co
 
 Getting TOKEN:
 1- go to your canvas > Accound > Setting > Approved Integrations > New Access Token
+
+
+After Getting your token, run fetch_data.py
